@@ -32,7 +32,7 @@ This application meet the following criteria:
 * Responsive view application on a mobile device as well as a desktop.
 
 ## Link
-You can experience the deployed project here: [CSS Snippet Cheatsheet URL ]().
+You can experience the deployed project here: [CSS Snippet Cheatsheet URL](https://hadisparsa.github.io/CSS-Snippet-Cheatsheet/).
 
 
 ## The following demo shows the web application's appearance and functionality:
